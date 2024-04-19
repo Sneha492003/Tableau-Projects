@@ -1,0 +1,21 @@
+Tableau Project: Airbnb Bedroom Availability Analysis
+
+Description:
+This Tableau project focuses on analyzing Airbnb listings based on bedroom availability for stay. The dataset comprises various attributes such as listing details, pricing, availability, and reviews. Through interactive visualizations, insights are derived to understand pricing trends, revenue generation, and geographical patterns.
+
+Key Visualizations:
+1. Average Price Per Bedrooms: Visualizing the average price of listings based on the number of bedrooms available, providing insights into pricing variations based on accommodation size.
+2. Average Price Per Zipcode: Exploring the average price of listings across different zip codes, highlighting regional pricing disparities.
+3. Price by Zipcode: Detailed visualization showcasing the price distribution within each zipcode area, aiding in understanding pricing dynamics at a granular level.
+4. Revenue for Year: Analyzing revenue generated from Airbnb listings over the course of a year, enabling insights into seasonal trends and revenue patterns.
+
+Usage:
+This Tableau project serves as a valuable tool for Airbnb hosts, investors, and stakeholders to understand market trends, optimize pricing strategies, and make informed decisions regarding property management and investment.
+
+Data Sources:
+The project utilizes datasets containing listing details, pricing information, availability, and guest reviews, providing a comprehensive view of Airbnb listings in the target area.
+
+Future Directions:
+Potential future enhancements include incorporating additional datasets for deeper analysis, integrating predictive modeling for price forecasting, and expanding visualizations to include demographic insights and competitor analysis.
+
+
